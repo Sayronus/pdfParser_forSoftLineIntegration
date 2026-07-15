@@ -1,1 +1,0 @@
-# pdfParser_forSoftLineIntegration
